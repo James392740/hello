@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<title>Web Page Design</title>
+
+<meta charest='utf_8'>
+
+<body>
+<h1>自我介紹</h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEmjNXO5QChcBreZ7TED5HJQ1uufjE8ovtA&usqp=CAU" width="50%" height="25%">
+<p>姓名:周彥君</p>
+<p>學號:109062124</p>
+<p>系所:資工系</p>
+<p>興趣:瘋狂做菜 </p>
+<p>關於我:</p>
+<p>平時都在看看小哥哥艾里的影片</p>
+<p>喜歡交朋友</p>
+<li><a href="https://obs.line-scdn.net/0hTcAdRMLfC0x8HSK8-Cl0G0ZLCCNPcRhPGCtaTz9zVXgGJUoTSHxGIl8eUigEeEwSEitGKFsUEH0DeE5JQX9G/w644">可愛</a></li>
